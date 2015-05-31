@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://xarquid.github.io
+title: The Cruelest Tale of CRAY CRAY
+tagline: Tales that incite fear in a handful of dust. And doctors' offices everywhere (except one...[Alicia]).
+description: We'll talk l8tr.
+paginate: 10
